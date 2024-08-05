@@ -2,7 +2,6 @@
 
 This project is made for me to easly get back to the interview qestrion that i came across while studying for my first job as a front-end developer. I wish it will help to be better at my job and it will be nice to reminisce in the future :)
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
