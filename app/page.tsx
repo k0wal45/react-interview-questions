@@ -15,6 +15,11 @@ export default function Home() {
             use-debounce-hook
           </Link>
         </li>
+        <li>
+          <Link href="/phone-number-input" className="hover:underline">
+            phone-number-input
+          </Link>
+        </li>
       </ul>
     </main>
   );
