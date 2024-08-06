@@ -2,6 +2,8 @@
 
 This project is made for me to easly get back to the interview qestrion that i came across while studying for my first job as a front-end developer. I wish it will help to be better at my job and it will be nice to reminisce in the future :)
 
+Here you can fidn source of the question and solutions for them that helpem me with it
+questions 1-3: https://www.youtube.com/watch?v=CAsTwrYx8pM
 
 ## Getting Started
 
